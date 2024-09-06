@@ -21,11 +21,11 @@ body {
     margin: 128px 185px;
     width: 65px;
     height: 25px;
-    padding: 1px;
-    z-index: -5;
+    padding: 0px;
+  
 
     background-color: white;
-    color: black;
+    color: red;
 
 
 }
